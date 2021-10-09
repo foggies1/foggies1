@@ -13,12 +13,12 @@ Hi I'm foggies, welcome to my Github! I've been coding in Java for almost 2 year
 - 📫 How to reach me: Discord @ foggies#6281
 - ⚡ Fun fact: I specialise in Prison Cores.
 
-###My Experience
+### My Experience
 
-- MySQL
-- Java
-- Spigot, Bukkit, Paper
-- MonogDB
-- Bootstrap
+- ⚡ MySQL
+- ⚡ Java
+- ⚡ Spigot, Bukkit, Paper
+- ⚡ MonogDB
+- ⚡ Bootstrap
 
 </br>
