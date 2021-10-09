@@ -4,13 +4,21 @@
 
 </br>
 
-Welcome to my Github!
+Hi I'm foggies, welcome to my Github! I've been coding in Java for almost 2 years now.
 
 - 🔭 I’m currently working on Spigot Plugins.
 - 🌱 I’m currently learning MongoDB.
 - 👯 I’m looking to collaborate on OP Prison Servers.
 - 💬 Ask me about anything you like!
 - 📫 How to reach me: Discord @ foggies#6281
-- ⚡ Fun fact: I love java!
+- ⚡ Fun fact: I specialise in Prison Cores.
+
+###My Experience
+
+- MySQL
+- Java
+- Spigot, Bukkit, Paper
+- MonogDB
+- Bootstrap
 
 </br>
