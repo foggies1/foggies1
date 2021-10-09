@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Untitled-1](https://github.com/foggies1/foggies1/blob/main/Untitled-1.png?raw=true)
+
 <!--
 **foggies1/foggies1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
